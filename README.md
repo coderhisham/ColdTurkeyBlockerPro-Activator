@@ -12,14 +12,14 @@ The files in this repository is used to enable the PRO features of Cold Turkey B
 2. Open Terminal, cd to the folder and run the command
 
 ```bash
-python3 ColdTurkeyBlocker-Pro-Activator-Windows.py
+python3 ColdTurkeyBlockerPro-Activator-Windows.py
 ```
 
 # For Mac:-
 1. `cd` to this cloned directory and run the respective python script.
 
 ```bash
-python3 ColdTurkeyBlocker-Pro-Activator-mac.py
+python3 ColdTurkeyBlockerPro-Activator-Mac.py
 ```
 
 ---
