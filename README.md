@@ -73,4 +73,3 @@ Using this to bypass licensing may be **illegal** or **against Cold Turkey's ter
 
 If Cold Turkey Blocker improves your productivity, please **support the developers** by [purchasing a license](https://getcoldturkey.com).
 
----
